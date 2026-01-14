@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Lecture Voice-to-Notes Generator",
+  "description": "A clean, functional tool to upload lecture audio and generate structured study notes in bullet points or paragraph formats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
